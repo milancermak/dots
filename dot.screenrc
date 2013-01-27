@@ -1,0 +1,28 @@
+# no startup msg
+startup_message off
+
+#big scrollback buffer
+defscrollback 10000
+
+# custom caption at the bottom line
+caption always "%{= kw}%-w%{= BW}%n %t%{-}%+w %-= %LD %d %LM - %c"
+
+# custom escape sequence(C-a is used as beginning-of-line)
+escape ^zZ
+
+# screen titles and commands
+screen -t
+screen -t
+screen -t 
+screen -t 
+screen -t 
+screen -t  
+screen -t 
+screen -t 
+screen -t
+screen -t
+
+#### custom key bindings
+bind o focus # emacs-like jumping between buffers/windows - escape+o
+bind t split # inspired by firefox - escape+t # C-z Q destroys split
+
