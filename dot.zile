@@ -1,0 +1,4 @@
+(setq make-backup-files nil) ; dont make ~ files
+(setq transient-mark-mode t) ; visual feedback on selections
+(setq highlight-nonselected-windows t) 
+(fset 'yes-or-no-p 'y-or-n-p)
