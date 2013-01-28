@@ -32,6 +32,8 @@
 (require 'ido)
 (ido-mode t)
 
+;(require 'maxframe)
+
 ;;;
 ;;; Key bindings
 ;;;
@@ -52,7 +54,7 @@
 (define-key global-map (kbd "C-x C-x") 'delete-region)
 
 ;; remove trailing whitespace and indent neatly
-(global-set-key (kbd "C-c n") 'cleanup-buffer)
+(global-set-key (kbd "C-c n") 'cleanup-buffer-safe)
 
 ;;;
 ;;; UI
@@ -62,6 +64,13 @@
 (require 'color-theme)
 (color-theme-initialize)
 (color-theme-billw)
+
+;; truncate long lines
+(setq truncate-partial-width-windows nil)
+(set-default 'truncate-lines nil)
+
+;; run in fullscreen mode
+;(add-hook 'window-setup-hook 'maximize-frame t)
 
 ;; font
 ;; ubuntu:
@@ -86,7 +95,7 @@
 (setq ns-pop-up-frames nil)
 
 ;; disable scroll & menu & tool bars to have more for the frame content
-(toggle-scroll-bar -1)
+(set-scroll-bar-mode nil)
 (menu-bar-mode -1)
 (tool-bar-mode -1)
 
@@ -133,6 +142,6 @@
   (interactive)
   (require 'bytecomp)
   (if (string= (buffer-file-name) (expand-file-name
-				   (concat default-directory "~/.emacs.d")))
+                   (concat default-directory "~/.emacs.d")))
       (byte-compile-file (buffer-file-name))))
 (add-hook 'after-save-hook 'autocompile)
