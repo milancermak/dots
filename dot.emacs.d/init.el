@@ -59,6 +59,12 @@
 ;; remove trailing whitespace and indent neatly
 (global-set-key (kbd "C-c n") 'cleanup-buffer-safe)
 
+;; joins split lines to one http://whattheemacsd.com/key-bindings.el-03.html
+(global-set-key (kbd "M-j")
+            (lambda ()
+                  (interactive)
+                  (join-line -1)))
+
 ;;;
 ;;; UI
 ;;;
