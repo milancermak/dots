@@ -1,3 +1,6 @@
+;; open .h in Objective-C mode
+(add-to-list 'auto-mode-alist '("\\.h$" . objc-mode))
+
 ;; --- Obj-C switch between header and source ---
 ;; credits go to http://roupam.github.com/
 (defun objc-in-header-file ()
