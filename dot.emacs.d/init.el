@@ -74,6 +74,10 @@
                   (interactive)
                   (join-line -1)))
 
+;; make it harder to quit Emacs
+(global-set-key (kbd "C-x r q") 'save-buffers-kill-terminal)
+(global-unset-key (kbd "C-x C-c"))
+
 ;;;
 ;;; UI
 ;;;
