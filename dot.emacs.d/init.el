@@ -1,5 +1,6 @@
 ;; update load path
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/"))
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/external/"))
 (progn (cd "~/.emacs.d/")
        (normal-top-level-add-subdirs-to-load-path))
 
@@ -19,9 +20,6 @@
 ;;;
 ;;; Load & mode
 ;;;
-
-(load "objc.el")
-(load "goodies.el")
 
 ;; smart & fast completion
 (setq partial-completion-mode t)
@@ -44,6 +42,9 @@
 ;; set "coding" as a harmless file variable
 ;; (disables warnings on opening files with -*- coding: utf-8 -*-
 (put 'coding 'safe-local-variable 'symbolp)
+
+(load "objc.el")
+(load "goodies.el")
 
 ;;;
 ;;; Key bindings
