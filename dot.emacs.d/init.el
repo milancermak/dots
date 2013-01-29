@@ -20,6 +20,7 @@
 ;;; Load & mode
 ;;;
 
+(load "objc.el")
 (load "goodies.el")
 
 ;; smart & fast completion
