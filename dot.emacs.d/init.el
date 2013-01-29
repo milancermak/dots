@@ -1,6 +1,7 @@
 ;; update load path
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/"))
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/external/ESS/"))
 (progn (cd "~/.emacs.d/")
        (normal-top-level-add-subdirs-to-load-path))
 
@@ -34,7 +35,8 @@
 (require 'ido)
 (ido-mode t)
 
-;(require 'maxframe)
+;; Emacs speaks statistics
+(require 'ess-site)
 
 ;; open .h in Objective-C mode
 (add-to-list 'auto-mode-alist '("\\.h$" . objc-mode))
