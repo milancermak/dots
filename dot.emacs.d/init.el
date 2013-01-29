@@ -40,6 +40,10 @@
 ;; open .h in Objective-C mode
 (add-to-list 'auto-mode-alist '("\\.h$" . objc-mode))
 
+;; set "coding" as a harmless file variable
+;; (disables warnings on opening files with -*- coding: utf-8 -*-
+(put 'coding 'safe-local-variable 'symbolp)
+
 ;;;
 ;;; Key bindings
 ;;;
