@@ -34,6 +34,9 @@
 
 ;(require 'maxframe)
 
+;; open .h in Objective-C mode
+(add-to-list 'auto-mode-alist '("\\.h$" . objc-mode))
+
 ;;;
 ;;; Key bindings
 ;;;
