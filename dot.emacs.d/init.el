@@ -66,7 +66,7 @@
 (color-theme-billw)
 
 ;; truncate long lines
-(setq truncate-partial-width-windows nil)
+(set-default 'truncate-partial-width-windows nil)
 (set-default 'truncate-lines nil)
 
 ;; run in fullscreen mode
