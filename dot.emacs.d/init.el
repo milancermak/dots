@@ -43,6 +43,7 @@
 ;; set "coding" as a harmless file variable
 ;; (disables warnings on opening files with -*- coding: utf-8 -*-
 (put 'coding 'safe-local-variable 'symbolp)
+(put 'encoding 'safe-local-variable 'symbolp) ;; also for "encoding"
 
 (load "objc.el")
 (load "goodies.el")
