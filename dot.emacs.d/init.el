@@ -89,9 +89,10 @@
 (color-theme-initialize)
 (color-theme-billw)
 
-;; truncate long lines
-(set-default 'truncate-partial-width-windows nil)
+;; truncate long lines and wrap on word character
 (set-default 'truncate-lines nil)
+(set-default 'truncate-partial-width-windows nil)
+(set-default 'word-wrap nil)
 
 ;; run in fullscreen mode
 ;(add-hook 'window-setup-hook 'maximize-frame t)
@@ -136,7 +137,6 @@
 
 ;; I hate whitespace at end of lines
 (set-default 'show-trailing-whitespace t)
-(set-default 'truncate-lines t)
 
 ;;;
 ;;; UX
