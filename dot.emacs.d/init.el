@@ -131,6 +131,7 @@
 (setq-default tab-width 4)
 (setq-default indent-tabs-mode nil)
 (setq indent-line-function 'insert-tab) ;; testing from http://stackoverflow.com/questions/69934/set-4-space-indent-in-emacs-in-text-mode#1819405
+(setq tab-stop-list (number-sequence 4 200 4)) ;; http://stackoverflow.com/a/10439239/1370986
 
 ;; end all files with \n, as it should be in the first place
 (setq require-final-newline t)
