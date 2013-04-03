@@ -70,6 +70,9 @@
 ;; delete region (cut without killring)
 (global-set-key (kbd "C-x C-x") 'delete-region)
 
+;; delete file and buffer
+(global-set-key (kbd "C-c D") 'delete-file-and-buffer)
+
 ;; remove trailing whitespace and indent neatly
 (global-set-key (kbd "C-c n") 'cleanup-buffer-safe)
 
