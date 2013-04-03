@@ -35,6 +35,9 @@
 (require 'ido)
 (ido-mode t)
 
+;; pairing
+(electric-pair-mode t)
+
 ;; Emacs speaks statistics
 (require 'ess-site)
 
