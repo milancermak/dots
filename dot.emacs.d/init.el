@@ -46,6 +46,7 @@
 (put 'encoding 'safe-local-variable 'symbolp) ;; also for "encoding"
 
 (load "objc.el")
+;(load "R.el")
 (load "goodies.el")
 
 ;;;
