@@ -29,6 +29,7 @@ PS1='\[\033[01;32m\]\u:\[\033[01;34m\]\w\[\033[00m\] \[\033[01;33m\]$(__git_ps1 
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
 fi
+export LSCOLORS=gxfxcxdxbxegedabagacad
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
