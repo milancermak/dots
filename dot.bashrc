@@ -25,8 +25,6 @@ shopt -s checkwinsize
 
 PS1='\[\033[01;32m\]\u:\[\033[01;34m\]\w\[\033[00m\] \[\033[01;33m\]$(__git_ps1 "(%s)")\[\033[00m\] '
 
-#unset color_prompt force_color_prompt
-
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
@@ -51,6 +49,9 @@ fi
 # moar completion
 if [ -f /opt/local/etc/bash_completion ]; then
       . /opt/local/etc/bash_completion
+fi
+if [ -f /usr/local/etc/bash_completion ]; then
+      . /usr/local/etc/bash_completion
 fi
 
 export EDITOR='zile'
