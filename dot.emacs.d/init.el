@@ -162,6 +162,12 @@
 ;; die whitespace
 (add-hook 'before-save-hook 'cleanup-buffer-safe)
 
+;; a better way to distinguish between buffers with the same filename
+(require 'uniquify)
+(setq uniquify-buffer-name-style 'forward)
+(setq uniquify-min-dir-content 2)
+(setq uniquify-separator "/")
+
 ;;;
 ;;; Various
 ;;;
