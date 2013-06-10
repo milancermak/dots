@@ -72,3 +72,6 @@ export PATH=$AWS_BIN_PATHS:~/bin:/usr/local/bin:/usr/local/sbin:$PATH:$HOME/.rvm
 
 # for Openpilot dev
 PATH=$PATH:~/QtSDK/Desktop/Qt/4.8.1/gcc/bin:~/bin/gcc-arm-none-eabi-4_7-2013q1
+
+# for iOS dev
+IPHONE_SDK_FRAMEWORKS_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks
