@@ -36,9 +36,7 @@
 (ido-mode t)
 
 ;; Emacs speaks statistics
-(require 'ess-site)
-
-;(require 'maxframe)
+;(require 'ess-site)
 
 ;; set "coding" as a harmless file variable
 ;; (disables warnings on opening files with -*- coding: utf-8 -*-
@@ -99,9 +97,6 @@
 (set-default 'truncate-lines nil)
 (set-default 'truncate-partial-width-windows nil)
 (set-default 'word-wrap nil)
-
-;; run in fullscreen mode
-;(add-hook 'window-setup-hook 'maximize-frame t)
 
 ;; font
 ;; ubuntu:
