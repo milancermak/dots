@@ -51,10 +51,10 @@
 ;;; Key bindings
 ;;;
 
-;; make the cmd key on a Mac work as Meta
-;; the option key as Super and Fn as Hyper
+;; make cmd and option keys on a Mac work as Meta
+;; the and Fn as Hyper
 (setq mac-command-modifier 'meta)
-(setq mac-option-modifier 'super)
+(setq mac-option-modifier 'meta)
 (setq ns-function-modifier 'hyper)
 
 ;; show buffers
