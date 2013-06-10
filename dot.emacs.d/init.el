@@ -1,6 +1,7 @@
 ;; update load path
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/"))
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/external/yasnippet/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/ESS/"))
 (progn (cd "~/.emacs.d/")
        (normal-top-level-add-subdirs-to-load-path))
@@ -164,6 +165,11 @@
 (setq uniquify-buffer-name-style 'forward)
 (setq uniquify-min-dir-content 2)
 (setq uniquify-separator "/")
+
+;; Yasnippet
+(require 'yasnippet)
+(setq yas-snippet-dirs '("~/.emacs.d/snippets/" "~/.emacs.d/snippets/objc-mode"))
+(yas-global-mode 1)
 
 ;;;
 ;;; Various

@@ -1,3 +1,6 @@
 [submodule "dot.emacs.d/external/ESS"]
 	path = dot.emacs.d/external/ESS
 	url = git://github.com/emacs-ess/ESS.git
+[submodule "dot.emacs.d/external/yasnippet"]
+	path = dot.emacs.d/external/yasnippet
+	url = git@github.com:capitaomorte/yasnippet.git
