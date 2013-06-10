@@ -83,6 +83,8 @@
 ;; make it harder to quit Emacs
 (global-set-key (kbd "C-x r q") 'save-buffers-kill-terminal)
 (global-unset-key (kbd "C-x C-c"))
+;; and disable backgrounding
+(global-unset-key (kbd "C-z"))
 
 ;;;
 ;;; UI
