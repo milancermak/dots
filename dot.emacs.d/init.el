@@ -1,10 +1,11 @@
 ;; update load path
-(add-to-list 'load-path (expand-file-name "~/.emacs.d/"))
+;(add-to-list 'load-path (expand-file-name "~/.emacs.d/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/yasnippet/"))
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/external/ESS/"))
 (progn (cd "~/.emacs.d/")
        (normal-top-level-add-subdirs-to-load-path))
+(add-to-list 'exec-path "/usr/local/bin")
 
 ;; speak utf-8
 (prefer-coding-system 'utf-8)
@@ -22,6 +23,28 @@
 ;;;
 ;;; Load & mode
 ;;;
+
+(require 'package)
+(add-to-list 'package-archives
+             '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.milkbox.net/packages/"))
+(add-to-list 'package-archives
+             '("tromey" . "http://tromey.com/elpa/"))
+
+(package-initialize)
+(when (not package-archive-contents)
+  (package-refresh-contents))
+
+(defvar my-packages '(paredit
+                      clojure-mode
+                      clojure-mode-extra-font-locking
+                      cider
+                      js2-mode
+                      tagedit))
+(dolist (p my-packages)
+  (when (not (package-installed-p p))
+    (package-install p)))
 
 ;; smart & fast completion
 (setq partial-completion-mode t)
@@ -47,6 +70,8 @@
 (load "objc.el")
 ;(load "R.el")
 (load "goodies.el")
+(load "clojure.el")
+(load "js.el")
 
 ;;;
 ;;; Key bindings
@@ -134,6 +159,7 @@
 (setq-default indent-tabs-mode nil)
 (setq indent-line-function 'insert-tab) ;; testing from http://stackoverflow.com/questions/69934/set-4-space-indent-in-emacs-in-text-mode#1819405
 (setq tab-stop-list (number-sequence 4 200 4)) ;; http://stackoverflow.com/a/10439239/1370986
+(setq electric-indent-mode nil)
 
 ;; end all files with \n, as it should be in the first place
 (setq require-final-newline t)
@@ -163,13 +189,13 @@
 ;; a better way to distinguish between buffers with the same filename
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'forward)
-(setq uniquify-min-dir-content 2)
+(setq uniquify-min-dir-content 1)
 (setq uniquify-separator "/")
 
 ;; Yasnippet
-(require 'yasnippet)
-(setq yas-snippet-dirs '("~/.emacs.d/snippets/" "~/.emacs.d/snippets/objc-mode"))
-(yas-global-mode 1)
+;(require 'yasnippet)
+;(setq yas-snippet-dirs '("~/.emacs.d/snippets/" "~/.emacs.d/snippets/objc-mode"))
+;(yas-global-mode 1)
 
 ;;;
 ;;; Various

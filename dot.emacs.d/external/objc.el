@@ -40,6 +40,8 @@
   (define-key objc-mode-map (kbd "C-c t") 'objc-jump-between-header-source)
   (define-key objc-mode-map (kbd "C-c p") 'objc-headline)
   (setq c-basic-offset 4)
-  (setq c-indent-level 4))
+  (setq c-indent-level 4)
+  (electric-indent-mode nil)
+)
 
 (add-hook 'objc-mode-hook 'objc-mode-customizations)

@@ -1,0 +1,240 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/milan/.emacs.d/" . "external/")
+ ("/Users/milan/tmp/dv/src/" . "dv/")
+ ("/Users/milan/tmp/dv/" . "src/")
+ ("/Users/milan/Library/Application Support/LightTable/plugins/" . "Emacs/")
+ ("/Users/milan/Library/Application Support/LightTable/" . "plugins/")
+ ("/Users/milan/Library/Application Support/" . "LightTable/")
+ ("/Users/milan/Library/" . "Application Support/")
+ ("/Users/milan/tmp/SDCAlertView/SDCAlertView/" . "Source/")
+ ("/Users/milan/tmp/SDCAlertView/" . "SDCAlertView/")
+ ("/Users/milan/tmp/" . "dv/")
+ ("/Users/milan/dev/allryder-ios/project/Allryder/Resources/" . "Locations/")
+ ("/Users/milan/dev/allryder-ios/project/Allryder/" . "Sources/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/SDCAlertView/" . "Source/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/" . "SDCAlertView/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/" . "SDCAlertView/")
+ ("/Users/milan/Downloads/GoogleConversionTrackingSDK-iOS-3.2.0/" . "DoubleClick/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/" . "About/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/settings/" . "Settings.bundle/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/data/" . "2014-01-allryder/")
+ ("/Users/milan/dev/allryder-android/Allryder/src/main/" . "assets/")
+ ("/Users/milan/dev/allryder-android/Allryder/src/" . "main/")
+ ("/Users/milan/dev/allryder-android/Allryder/" . "src/")
+ ("/Users/milan/dev/allryder-android/" . "Allryder/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/" . "en.lproj/")
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/" . "Sources/")
+ ("/Users/milan/dev/CeBIT-iOS/project/" . "Libraries/")
+ ("/Users/milan/dev/CeBIT-iOS/" . "project/")
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/Resources/" . "Locations/")
+ ("/Users/milan/Downloads/" . "GoogleConversionTrackingSDK-iOS-3.2.0/")
+ ("/Users/milan/dev/allryderSDK-iOS/Libraries/" . "ILTesting/")
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/" . "Sources/")
+ ("/Users/milan/dev/allryder-ios/project/" . "Allryder/")
+ ("/Users/milan/dev/allryder-ios/" . "project/")
+ ("/Library/" . "Keyboard Layouts/")
+ ("/" . "Library/")
+ ("/Users/milan/dev/allryderSDK-iOS/" . "allryderSDKTests/")
+ ("/Users/milan/dev/" . "CeBIT-iOS/")
+ ("/Users/milan/" . ".lein/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/milan/tmp/dv/src/dv/"
+ "/Users/milan/.lein/"
+ "/Users/milan/tmp/dv/"
+ "/Users/milan/tmp/"
+ "/Users/milan/.emacs.d/"
+ "/Users/milan/.emacs.d/external/"
+ "/Users/milan/dev/dots/dot.emacs.d/"
+ "/Users/milan/Library/Application Support/LightTable/plugins/Emacs/"
+ "/Users/milan/tmp/SDCAlertView/SDCAlertView/Source/"
+ "/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/SDCAlertView/Source/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Sources/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/en.lproj/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/de.lproj/"
+ "/Users/milan/dev/allryder-ios/project/Allryder/Sources/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/About/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/legal/"
+ "/Users/milan/Downloads/"
+ "/Users/milan/Downloads/GoogleConversionTrackingSDK-iOS-3.2.0/DoubleClick/"
+ "/Users/milan/dev/allryder-ios/project/Waymate-local/Sources/"
+ "/Users/milan/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Locations/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/data/"
+ "/Users/milan/dev/allryder-android/Allryder/src/main/assets/"
+ "/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/data/2014-01-allryder/"
+ "/Users/milan/dev/quicar/"
+ "/Users/milan/dev/"
+ "/Users/milan/dev/allryder-ios/project/Waymate-local/Resources/Locations/"
+ "/Users/milan/Downloads/osx-mitmproxy-0.11.3/"
+ "/Users/milan/Downloads/Sociomantic/"
+ "/Users/milan/dev/allryderSDK-iOS/allryderSDKTests/"
+ "/Users/milan/dev/allryderSDK-iOS/Libraries/ILTesting/"
+ "/Users/milan/dev/allryder-ios/"
+ "/Users/milan/dev/allryderSDK-iOS/"
+ "/Users/milan/dev/allryderSDK-iOS/allryderSDK/"
+ "/Library/Keyboard Layouts/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "profiles.clj"
+ "project.clj"
+ "da.py"
+ "init.el"
+ "clojure.el"
+ "objc.el"
+ "anything-config.el"
+ "js.el"
+ "emacs.keymap"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/milan/tmp/dv/" (21744 34199 0 0) "test/" "target/" "system.clj" "src/" "resources/" "README.md" "project.clj" "pr" "pom.xml" "LICENSE" "doc/" ".lein-repl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/milan/.lein/" (21744 34004 0 0) "self-installs/" "repl-port" "profiles.clj" "../" "./")
+
+ ("/Users/milan/dev/dots/dot.emacs.d/" (21744 33723 0 0) "snippets/" "init.el~" "init.el" "ido.last~" "ido.last" "external/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/milan/.emacs.d/" (21744 33723 0 0) "snippets/" "init.el~" "init.el" "ido.last~" "ido.last" "external/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/milan/.emacs.d/external/" (21744 33700 0 0) "yasnippet/" "themes/" "objc.el" "js.el" "goodies.el" "ESS/" "color-theme.el" "clojure.el" "anything.el" "anything-match-plugin.el" "anything-config.el" "../" "./")
+
+ ("/Users/milan/dev/dots/dot.emacs.d/external/" (21744 31200 0 0) "yasnippet/" "themes/" "objc.el" "js.el" "goodies.el" "ESS/" "color-theme.el" "clojure.el" "anything.el" "anything-match-plugin.el" "anything-config.el" "../" "./")
+
+ ("/Users/milan/Downloads/" (21744 15876 0 0) "ZAP_2.3.1_Mac_OS_X.zip" "YC_Form_SaaS_Agreement.doc" "YC_Form_SaaS_Agreement-1.doc" "VW_Type_Fontpaket_final.zip" "VW_Type_Fontpaket/" "VW_Launch_image_640x1136_mp4.zip" "VW_Launch_image_640x1136_mp4/" "VW_Golf" "VW_3D_PSD_60px.zip" "VW_3D_PSD_60px.psd" "ticketdirect453435613.pdf" "ticketdirect453435613(1).pdf" "test-routes-request.json" "terms final version.docx" "Stellplatzverzeichnis 03 02 2015.xlsx" "Stellplatzverzeichnis 03 02 2015-1.xlsx" "Stellplatzverzeichnis 03 02 2015(1).xlsx" "Sociomantic.zip" "Sociomantic/" "Postgres-9.4.1.0.zip" "osx-mitmproxy-0.11.3.tar.gz" "osx-mitmproxy-0.11.3/" "node-v0.12.0.pkg" "new TOS, privacy and imprint.docx" "mitmproxy-ca-cert.pem" "MatchRider.pdf" "LightTable/" "liballryderSDK.a" "jre-8u31-macosx-x64.dmg" "jdk-8u25-macosx-x64.dmg" "iOSTeam_Provisioning_Profile_dewaymatewaymate.mobileprovision" "iOSTeam_Provisioning_Profile_deallrydercebit.mobileprovision" "ios_distribution.cer" "ios_development.cer" "ios_development(1).cer" "Info.plist" "Ibex-Alps.jpg" "horn_twice.wav" "horn_twice.mp3" "horn_sound.wav" "horn_sound.mp3" "HockeyApp.app.zip" "hardware_io_tools_for_xcode.dmg" "hannover_stations.csv" "googleconversiontrackingsdkios.zip" "GoogleConversionTrackingSDK-iOS-3.2.0/" "Google Maps APIs for Work - External - DOOR2DOOR GMBH-abbb8c947994.p12" "en.strings" "Emacs-24.4-universal.dmg" "de.strings" "cv_simona_luhova.docx" "color-theme-6.6.0.zip" "color-theme-6.6.0/" "clojure-1.6.0.zip" "clojure-1.6.0/" "CeBIT_Store.mobileprovision" "CeBIT_Store(1).mobileprovision" "Building_Microservices_Nginx.pdf" "Building_Microservices_Nginx(1).pdf" "branch-sound-of-music-7_525.jpg" "BetterTouchTool.zip" "BetterTouchTool.app/" "b07f3d03-c835-4c08-93a4-826a2b9e0719.pkpass" "aps_production.cer" "aps_development.cer" "App Icon [Squared].zip" "App Icon [Squared]/" "alpine-ibex-swiss-alps-bernd-rohrschneider.jpg" "allryderSDK.framework/" "ae47e055-14c4-4747-a70f-b727f901532c.pkpass" "6954256-alps-mountains.jpg" "640x1136_white.mp4" ".localized" ".DS_Store" ".com.google.Chrome.RXePb6" "../" "./")
+
+ ("/Users/milan/tmp/SDCAlertView/SDCAlertView/Source/" (21744 19482 0 0) "UIViewController+Current.m" "UIViewController+Current.h" "UIView+Parallax.m" "UIView+Parallax.h" "SDCIntrinsicallySizedView.m" "SDCIntrinsicallySizedView.h" "SDCDemoViewController.m" "SDCDemoViewController.h" "SDCAlertViewTransitioning.h" "SDCAlertViewCoordinator.m" "SDCAlertViewCoordinator.h" "SDCAlertViewController.m" "SDCAlertViewController.h" "SDCAlertViewContentView.m" "SDCAlertViewContentView.h" "SDCAlertViewBackgroundView.m" "SDCAlertViewBackgroundView.h" "SDCAlertView.m" "SDCAlertView.h" "SDCAlertTextFieldTableViewCell.m" "SDCAlertTextFieldTableViewCell.h" "SDCAlertPresentationController.m" "SDCAlertPresentationController.h" "SDCAlertLabel.m" "SDCAlertLabel.h" "SDCAlertControllerVisualStyle.h" "SDCAlertControllerView.m" "SDCAlertControllerView.h" "SDCAlertControllerTransition.m" "SDCAlertControllerTransition.h" "SDCAlertControllerTextFieldViewController.m" "SDCAlertControllerTextFieldViewController.h" "SDCAlertControllerScrollView.m" "SDCAlertControllerScrollView.h" "SDCAlertControllerDefaultVisualStyle.m" "SDCAlertControllerDefaultVisualStyle.h" "SDCAlertControllerCollectionViewFlowLayout.m" "SDCAlertControllerCollectionViewFlowLayout.h" "SDCAlertController.m" "SDCAlertController.h" "SDCAlertCollectionViewCell.m" "SDCAlertCollectionViewCell.h" "SDCAlertAction.m" "../" "./")
+
+ ("/Users/milan/tmp/dv/src/dv/" (21744 29391 0 0) "core.clj" "../" "./")
+
+ ("/Users/milan/tmp/dv/src/" (21743 19312 0 0) "dv/" "../" "./")
+
+ ("/Users/milan/Library/Application Support/LightTable/plugins/Emacs/" (21711 31321 0 0) "src/" "README.md" "project.clj" "plugin.json" "LICENSE.md" "emacs_compiled.js.map" "emacs_compiled.js" "emacs.keymap" "emacs.js" "emacs.behaviors" "CONTRIBUTING.md" "../" "./")
+
+ ("/Users/milan/Library/Application Support/LightTable/plugins/" (21743 11216 0 0) "Recall/" "Python/" "Paredit/" "Javascript/" "Emacs/" "CSS/" "Clojure/" "Claire/" "Bufferize/" "../" "./")
+
+ ("/Users/milan/Library/Application Support/LightTable/" (21744 18004 0 0) "User/" "SingletonSocket" "SingletonLock" "SingletonCookie" "plugins/" "metadata/" "ltcache/" "logs/" "Local Storage/" "GPUCache/" "cookies-journal" "cookies" "Cache/" "../" "./")
+
+ ("/Users/milan/Library/Application Support/" (21744 19081 0 0) "Xcode/" "Ubiquity/" "SyncServices/" "Sublime Text 3/" "Sublime Text 2/" "Spotify/" "Quick Look/" "Preview/" "Postgres/" "Oracle/" "NotificationCenter/" "Mozilla/" "MobileSync/" "LightTable/" "iTerm/" "iCloud/" "HipChat/" "Google/" "Flux/" "Firefox/" "Dock/" "CrashReporter/" "com.hockeyapp.mac/" "com.apple.TCC/" "com.apple.spotlight.Shortcuts" "com.apple.spotlight/" "com.apple.sbd/" "CloudDocs/" "Charles/" "CallHistoryTransactions/" "CallHistoryDB/" "BetterTouchTool/" "App Store/" "Aperture/" "AddressBook/" "../" "./")
+
+ ("/Users/milan/Library/" (21730 64007 0 0) "WebKit/" "Voices/" "SyncedPreferences/" "Spelling/" "Sounds/" "Services/" "Screen Savers/" "Saved Application State/" "Safari/" "PubSub/" "Printers/" "Preferences/" "PreferencePanes/" "MobileDevice/" "Mobile Documents/" "Messages/" "Mail/" "Logs/" "LaunchAgents/" "LanguageModeling/" "Keychains/" "Keyboard Layouts/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "IdentityServices/" "HipChat/" "Group Containers/" "Google/" "GameKit/" "Fonts/" "FontCollections/" "Favorites/" "Dictionaries/" "Developer/" "Cookies/" "Containers/" "Compositions/" "com.apple.nsurlsessiond/" "ColorSync/" "Colors/" "ColorPickers/" "Calendars/" "Caches/" "Autosave Information/" "Audio/" "Assistants/" "Application Support/" "Accounts/" ".localized" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/SDCAlertView/Source/" (21744 19505 0 0) "UIViewController+Current.m" "UIViewController+Current.h" "UIView+Parallax.m" "UIView+Parallax.h" "SDCIntrinsicallySizedView.m" "SDCIntrinsicallySizedView.h" "SDCDemoViewController.m" "SDCDemoViewController.h" "SDCAlertViewTransitioning.h" "SDCAlertViewCoordinator.m" "SDCAlertViewCoordinator.h" "SDCAlertViewController.m" "SDCAlertViewController.h" "SDCAlertViewContentView.m" "SDCAlertViewContentView.h" "SDCAlertViewBackgroundView.m" "SDCAlertViewBackgroundView.h" "SDCAlertView.m" "SDCAlertView.h" "SDCAlertTextFieldTableViewCell.m" "SDCAlertTextFieldTableViewCell.h" "SDCAlertPresentationController.m" "SDCAlertPresentationController.h" "SDCAlertLabel.m" "SDCAlertLabel.h" "SDCAlertControllerVisualStyle.h" "SDCAlertControllerView.m" "SDCAlertControllerView.h" "SDCAlertControllerTransition.m" "SDCAlertControllerTransition.h" "SDCAlertControllerTextFieldViewController.m" "SDCAlertControllerTextFieldViewController.h" "SDCAlertControllerScrollView.m" "SDCAlertControllerScrollView.h" "SDCAlertControllerDefaultVisualStyle.m" "SDCAlertControllerDefaultVisualStyle.h" "SDCAlertControllerCollectionViewFlowLayout.m" "SDCAlertControllerCollectionViewFlowLayout.h" "SDCAlertController.m" "SDCAlertController.h" "SDCAlertCollectionViewCell.m" "SDCAlertCollectionViewCell.h" "SDCAlertAction.m" "../" "./")
+
+ ("/Users/milan/tmp/SDCAlertView/SDCAlertView/" (21744 18984 0 0) "Source/" "SDCAppDelegate.m" "SDCAppDelegate.h" "SDCAlertView-Prefix.pch" "SDCAlertView-Info.plist" "main.m" "Launch Screen.xib" "Images.xcassets/" "en.lproj/" "AlertDemo.storyboard" "../" "./")
+
+ ("/Users/milan/tmp/SDCAlertView/" (21744 18984 0 0) "SDCAlertViewTests/" "SDCAlertView.xcworkspace/" "SDCAlertView.xcodeproj/" "SDCAlertView.podspec" "SDCAlertView/" "README.md" "Pods/" "Podfile.lock" "Podfile" "LICENSE" "CHANGELOG.md" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/milan/tmp/" (21744 18981 0 0) "yelp.py" "vr.txt" "valentines_routes.txt" "searches" "SDCAlertView/" "sample.txt" "routes_metrics.txt" "metrics.schema" "latest.dump" "ios.sqlite" "hanover.geojson" "feb.txt" "dv/" "dbdiff.py" "db.diff" "da.py" "android.sqlite" ".DS_Store" "../" "./")
+
+ ("/Users/milan/" (21744 17494 0 0) "valentines_routes.txt" "tmp/" "sample.txt" "Quicar 1.3.ipa" "Quicar 1.3/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "dev/" "Desktop/" "Applications/" ".zile" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".screenrc" ".rnd" ".putty/" ".psql_history" ".npm/" ".netrc" ".mitmproxy/" ".m2/" ".lesshst" ".lein/" ".itmstransporter/" ".ipython/" ".heroku/" ".gitconfig" ".gem/" ".fontconfig/" ".emacs.d/" ".DS_Store" ".dropbox-master/" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_history" ".bash_aliases" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Sources/" (21743 20551 0 0) "WMLUserDataManager.m" "WMLUserDataManager.h" "WMLTimePickerView.m" "WMLTimePickerView.h" "WMLTimelineView.m" "WMLTimelineView.h" "WMLTheming.m" "WMLTheming.h" "WMLSuggestionController.m" "WMLSuggestionController.h" "WMLStationDetailTableViewController.m" "WMLStationDetailTableViewController.h" "WMLSecrets.h" "WMLPlacemark.m" "WMLPlacemark.h" "WMLPlace.m" "WMLPlace.h" "WMLNearMeStation.m" "WMLNearMeStation.h" "WMLMapViewController.m" "WMLMapViewController.h" "WMLLegalViewController.m" "WMLLegalViewController.h" "WMLLegalSectionViewController.m" "WMLLegalSectionViewController.h" "WMLLegalCell.m" "WMLLegalCell.h" "WMLImageHelper.m" "WMLImageHelper.h" "WMLGlobals.m" "WMLGlobals.h" "WMLEmptySearchHistoryCell.m" "WMLEmptySearchHistoryCell.h" "WMLConnection.m" "WMLConnection.h" "WMLConfig.m" "WMLConfig.h" "WMLCarStationDetailTableViewController.m" "WMLCarStationDetailTableViewController.h" "WMLBusinessArea.m" "WMLBusinessArea.h" "WMLBikeStationDetailTableViewController.m" "WMLBikeStationDetailTableViewController.h" "WMLBannerView.m" "WMLBannerView.h" "WMLAppDelegate.m" "WMLAppDelegate.h" "WMLAboutViewController.m" "WMLAboutViewController.h" "UIView+AL.m" "UIView+AL.h" "UIImageToDataTransformer.m" "UIImageToDataTransformer.h" "UIFont+AL.m" "UIFont+AL.h" "UIColor+AL.m" "UIColor+AL.h" "SERClockView.m" "SERClockView.h" "NSString+WML.m" "NSString+WML.h" "NSString+HMAC.m" "NSString+HMAC.h" "NSDate+AL.m" "NSDate+AL.h" "GMSPolyline+WML.m" "GMSPolyline+WML.h" "GMSCameraPosition+AL.m" "GMSCameraPosition+AL.h" "foo.m" "CLLocation+AL.m" "CLLocation+AL.h" "ALVWHornButtonView.m" "ALVWHornButtonView.h" "ALUserDefaultKeys.h" "ALTravelModeLabelView.m" "ALTravelModeLabelView.h" "ALTour.m" "ALTour.h" "ALTapOriginAnimator.m" "ALTapOriginAnimator.h" "ALTableSectionView.m" "ALTableSectionView.h" "ALSwitchServerCell.m" "ALSwitchServerCell.h" "ALSwappingLineView.m" "ALSwappingLineView.h" "ALStopCell.m" "ALStopCell.h" "ALStop.m" "ALStop.h" "ALSplashViewController.m" "ALSplashViewController.h" "ALSegmentView.m" "ALSegmentView.h" "ALSegmentRowModel.m" "ALSegmentRowModel.h" "ALSegmentCell.m" "ALSegmentCell.h" "ALSegment.m" "ALSegment.h" "ALSearchManager.m" "ALSearchManager.h" "ALRouteView.m" "ALRouteView.h" "ALRoutePresentationModel.m" "ALRoutePresentationModel.h" "ALRouteInfoCell.m" "ALRouteInfoCell.h" "ALRoute.m" "ALRoute.h" "ALResultsViewController.m" "ALResultsViewController.h" "ALResultDetailViewController.m" "ALResultDetailViewController.h" "ALRecommendActivityItem.m" "ALRecommendActivityItem.h" "ALReactiveHTTPClient.m" "ALReactiveHTTPClient.h" "ALPushNotificationManager.m" "ALPushNotificationManager.h" "ALPropertyCell.m" "ALPropertyCell.h" "ALPrice.m" "ALPrice.h" "ALPlannerViewController.m" "ALPlannerViewController.h" "ALPlacePickerViewController.m" "ALPlacePickerViewController.h" "ALPhoneCell.m" "ALPhoneCell.h" "ALNotificationWidgetView.m" "ALNotificationWidgetView.h" "ALNearMeTableView.m" "ALNearMeTableView.h" "ALNearMeDetailViewController.m" "ALNearMeDetailViewController.h" "ALNearMeAutolayoutCell.m" "ALNearMeAutolayoutCell.h" "ALMoreTableViewController.m" "ALMoreTableViewController.h" "ALMeetUsViewController.m" "ALMeetUsViewController.h" "ALMapPin.m" "ALMapPin.h" "ALLocationManager.m" "ALLocationManager.h" "ALLoadingView.m" "ALLoadingView.h" "ALLaunchButton.m" "ALLaunchButton.h" "ALKeyboardBehaviour.m" "ALKeyboardBehaviour.h" "ALIntermediateStopCell.m" "ALIntermediateStopCell.h" "ALInputTableViewController.m" "ALInputTableViewController.h" "ALImageCell.m" "ALImageCell.h" "ALHTTPBuilder.m" "ALHTTPBuilder.h" "ALGridView.m" "ALGridView.h" "ALGoogleDisclaimerCell.m" "ALGoogleDisclaimerCell.h" "ALExtendedScrollView.m" "ALExtendedScrollView.h" "ALEstablishmentViewController.m" "ALEstablishmentViewController.h" "ALDisclaimerCell.m" "ALDisclaimerCell.h" "ALDepartureCell.m" "ALDepartureCell.h" "ALCurrentLocationCell.m" "ALCurrentLocationCell.h" "ALConnectionLineView.m" "ALConnectionLineView.h" "ALConnectionCircleView.m" "ALConnectionCircleView.h" "ALCommonCell.m" "ALCommonCell.h" "ALCitySelectorViewController.m" "ALCitySelectorViewController.h" "ALChangeDateButton.m" "ALChangeDateButton.h" "ALCeBITMapViewController.m" "ALCeBITMapViewController.h" "ALCarouselViewController.m" "ALCarouselViewController.h" "ALCarouselScrollView.m" "ALCarouselScrollView.h" "ALAPIMapper.m" "ALAPIMapper.h" "ALAPIConstants.h" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/data/" (21739 38110 0 0) "wiener_linien/" "vvs/" "tfi/" "stations/" "README" "near.sql" "import_hannover.py" "import-poi.sh" "import-poi/" "HVV/" "geodata/" "generate-tokens.rb" "final.csv" "data.blob" "config/" "b.blob" "2014-01-allryder/" "2013-08-01 City2City/" "2013-07-02 VRS/" "2013-05-17 FTS/" "2013-05-07/" "2013-04-24_VRR/" "2013-04-14 MVV/" "2013-04-12 CDG as test airport/" "2013-01-28 integration concept/" "2013-01-18 WLI-114/" "2013-01-01 VBB daten/" "2013-01 WLI-123 ranking improvements/" "2012-12-01 inital data WLI-19/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/en.lproj/" (21740 18939 0 0) "Localizable.strings" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/" (21740 37923 0 0) "README.md" "project/" "bootstrap" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/" (21740 37923 0 0) "Waymate-local.xcodeproj/" "Waymate-local/" "Waymate/" "today copy-Info.plist" "today/" "Libraries/" "Entitlements/" "Common.xcconfig" "Certificates/" "Assets/" "Allryder.xcodeproj/" "Allryder-Internal-Info.plist" "Allryder-Info.plist" "Allryder-Debug-Info.plist" "Allryder/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Allryder/Sources/" (21740 37923 0 0) "WMLUserDataManager.m" "WMLUserDataManager.h" "WMLTimePickerView.m" "WMLTimePickerView.h" "WMLTimelineView.m" "WMLTimelineView.h" "WMLTheming.m" "WMLTheming.h" "WMLSuggestionController.m" "WMLSuggestionController.h" "WMLStationDetailTableViewController.m" "WMLStationDetailTableViewController.h" "WMLSecrets.h" "WMLPlacemark.m" "WMLPlacemark.h" "WMLPlace.m" "WMLPlace.h" "WMLNearMeViewController.m" "WMLNearMeViewController.h" "WMLNearMeTableViewErrorCell.m" "WMLNearMeTableViewErrorCell.h" "WMLNearMeTableViewContentCell.m" "WMLNearMeTableViewContentCell.h" "WMLNearMeStation.m" "WMLNearMeStation.h" "WMLMapViewController.m" "WMLMapViewController.h" "WMLLegalViewController.m" "WMLLegalViewController.h" "WMLLegalSectionViewController.m" "WMLLegalSectionViewController.h" "WMLLegalCell.m" "WMLLegalCell.h" "WMLImageHelper.m" "WMLImageHelper.h" "WMLGlobals.m" "WMLGlobals.h" "WMLEmptySearchHistoryCell.m" "WMLEmptySearchHistoryCell.h" "WMLConnection.m" "WMLConnection.h" "WMLConfig.m" "WMLConfig.h" "WMLCDRecentPlace.m" "WMLCDRecentPlace.h" "WMLCarStationDetailTableViewController.m" "WMLCarStationDetailTableViewController.h" "WMLBusinessArea.m" "WMLBusinessArea.h" "WMLBikeStationDetailTableViewController.m" "WMLBikeStationDetailTableViewController.h" "WMLBannerView.m" "WMLBannerView.h" "WMLAppDelegate.m" "WMLAppDelegate.h" "WMLAboutViewController.m" "WMLAboutViewController.h" "waymate.xcdatamodeld/" "UIView+AL.m" "UIView+AL.h" "UIImageToDataTransformer.m" "UIImageToDataTransformer.h" "UIFont+AL.m" "UIFont+AL.h" "UIColor+AL.m" "UIColor+AL.h" "SERClockView.m" "SERClockView.h" "NSString+WML.m" "NSString+WML.h" "NSString+HMAC.m" "NSString+HMAC.h" "NSDate+AL.m" "NSDate+AL.h" "GMSPolyline+WML.m" "GMSPolyline+WML.h" "GMSCameraPosition+AL.m" "GMSCameraPosition+AL.h" "CLLocation+AL.m" "CLLocation+AL.h" "ALUserDefaultKeys.h" "ALTravelModeLabelView.m" "ALTravelModeLabelView.h" "ALTrackingManager.m" "ALTrackingManager.h" "ALTrackingDebugViewController.m" "ALTrackingDebugViewController.h" "ALTour.m" "ALTour.h" "ALTapOriginAnimator.m" "ALTapOriginAnimator.h" "ALTableSectionView.m" "ALTableSectionView.h" "ALSwitchServerCell.m" "ALSwitchServerCell.h" "ALSwappingLineView.m" "ALSwappingLineView.h" "ALStopCell.m" "ALStopCell.h" "ALStop.m" "ALStop.h" "ALSegmentView.m" "ALSegmentView.h" "ALSegmentRowModel.m" "ALSegmentRowModel.h" "ALSegmentCell.m" "ALSegmentCell.h" "ALSegment.m" "ALSegment.h" "ALSearchManager.m" "ALSearchManager.h" "ALRouteView.m" "ALRouteView.h" "ALRoutePresentationModel.m" "ALRoutePresentationModel.h" "ALRouteInfoCell.m" "ALRouteInfoCell.h" "ALRouteActivityItem.m" "ALRouteActivityItem.h" "ALRoute.m" "ALRoute.h" "ALResultsViewController.m" "ALResultsViewController.h" "ALResultDetailViewController.m" "ALResultDetailViewController.h" "ALReactiveHTTPClient.m" "ALReactiveHTTPClient.h" "ALPushNotificationManager.m" "ALPushNotificationManager.h" "ALPropertyCell.m" "ALPropertyCell.h" "ALPrice.m" "ALPrice.h" "ALPlannerViewController.m" "ALPlannerViewController.h" "ALPlacePickerViewController.m" "ALPlacePickerViewController.h" "ALPhoneCell.m" "ALPhoneCell.h" "ALNotificationViewController.m" "ALNotificationViewController.h" "ALNotificationView.m" "ALNotificationView.h" "ALNearMeTableView.m" "ALNearMeTableView.h" "ALNearMeDetailViewController.m" "ALNearMeDetailViewController.h" "ALNearMeAutolayoutCell.m" "ALNearMeAutolayoutCell.h" "ALMoreTableViewController.m" "ALMoreTableViewController.h" "ALMapPin.m" "ALMapPin.h" "ALMadeWithLoveTableFooterView.m" "ALMadeWithLoveTableFooterView.h" "ALLocationManager.m" "ALLocationManager.h" "ALLoadingView.m" "ALLoadingView.h" "ALLaunchButton.m" "ALLaunchButton.h" "ALKeyboardBehaviour.m" "ALKeyboardBehaviour.h" "ALIntermediateStopCell.m" "ALIntermediateStopCell.h" "ALInputTableViewController.m" "ALInputTableViewController.h" "ALImageCell.m" "ALImageCell.h" "ALHTTPBuilder.m" "ALHTTPBuilder.h" "ALGridView.m" "ALGridView.h" "ALGoogleDisclaimerCell.m" "ALGoogleDisclaimerCell.h" "ALExtendedScrollView.m" "ALExtendedScrollView.h" "ALEstablishmentViewController.m" "ALEstablishmentViewController.h" "ALDisclaimerCell.m" "ALDisclaimerCell.h" "ALDepartureCell.m" "ALDepartureCell.h" "ALCurrentLocationCell.m" "ALCurrentLocationCell.h" "ALConnectionLineView.m" "ALConnectionLineView.h" "ALConnectionCircleView.m" "ALConnectionCircleView.h" "ALCommonCell.m" "ALCommonCell.h" "ALCitySelectorViewController.m" "ALCitySelectorViewController.h" "ALChangeDateButton.m" "ALChangeDateButton.h" "ALCarouselViewController.m" "ALCarouselViewController.h" "ALCarouselScrollView.m" "ALCarouselScrollView.h" "ALAPIMapper.m" "ALAPIMapper.h" "ALAPIConstants.h" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/" (21740 19402 0 0) "today/" "Libraries/" "Entitlements/" "Common.xcconfig" "Certificates/" "Assets/" "Allryder.xcodeproj/" "Allryder-Internal-Info.plist" "Allryder-Info.plist" "Allryder-Debug-Info.plist" "Allryder/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/de.lproj/" (21739 27042 0 0) "Localizable.strings" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Allryder/Resources/Locations/" (21735 12244 0 0) "zurich.gpx" "Westland Row in Dublin.gpx" "Victoria Station in London.gpx" "Taksim in Istanbul.gpx" "Steintorplatz 1 in Hamburg.gpx" "Quantiusstraße 18 in Bonn.gpx" "potsdam.gpx" "Mercatorstraße 16 in Druisburg.gpx" "Marienplatz in Munich.gpx" "Kriegsbergtraße in Sttutgart.gpx" "Kärnterstraße in Vienna.gpx" "Kaiserstr Frankfurt.gpx" "Immermannstraße in Dusseldorf.gpx" "Hbf in Nuremberg.gpx" "hamburg.gpx" "Grüne Straße 8 in Dortmund.gpx" "Frankfurt.gpx" "cologne.gpx" "Bielefeld.gpx" "berlin.gpx" "Berlin walk.gpx" "An der Reichsbank 1-2 in Essen.gpx" "alexanderplatz.gpx" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Allryder/Resources/" (21739 24714 0 0) "Shared/" "settings/" "Results/" "Planner/" "Nearme/" "More/" "Map/" "Locations/" "en.lproj/" "Details/" "de.lproj/" "data/" "Common/" "Animations/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Allryder/" (21739 24714 0 0) "Sources/" "Resources/" "main.m" "en.lproj/" "de.lproj/" "Allryder-Prefix.pch" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/" (21739 28396 0 0) "work_tableview@3x.png" "work_tableview@2x.png" "VW_LOGO@3x.png" "VW_LOGO@2x.png" "VW_Golf@2x.png" "squiggle@3x.png" "squiggle@2x.png" "recent_locations@3x.png" "recent_locations@2x.png" "Powered_by_allryder@3x.png" "Powered_by_allryder@2x.png" "powered-by-google-on-white@2x.png" "place@3x.png" "place@2x.png" "my_location@3x.png" "my_location@2x.png" "modes of transport/" "map_pin@3x.png" "map_pin@2x.png" "legal/" "home_tableview@3x.png" "home_tableview@2x.png" "forward@3x.png" "forward@2x.png" "error_face@3x.png" "error_face@2x.png" "CeBIT_Navigator@3x.png" "CeBIT_Navigator@2x.png" "allryder_logo@3x.png" "allryder_logo@2x.png" "About/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/About/" (21739 30742 0 0) "meetus_en.html" "meetus_de.html" "meet-us-banner@2x.png" "about_en.html" "about_de.html" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Common/legal/" (21739 11302 0 0) "legal_terms_en.html" "legal_terms_de.html" "legal_sources_en.html" "legal_sources_de.html" "legal_privacy_en.html" "legal_privacy_de.html" "legal_imprint_en.html" "legal_imprint_de.html" "legal-zvv@2x.png" "legal-zipcar@3x.png" "legal-zipcar@2x.png" "legal-wiener_linien@2x.png" "legal-vvs@2x.png" "legal-vrs@2x.png" "legal-vrr@2x.png" "legal-vbb@2x.png" "legal-tfl@3x.png" "legal-tfl@2x.png" "legal-tfi@2x.png" "legal-rmv@3x.png" "legal-rmv@2x.png" "legal-quicar@3x.png" "legal-quicar@2x.png" "legal-nextbike@2x.png" "legal-mvv@2x.png" "legal-hvv@2x.png" "legal-drivenow@2x.png" "legal-drive_now@2x.png" "legal-db@2x.png" "legal-car2go@2x.png" "legal-callabike@2x.png" "legal-barclays@3x.png" "legal-barclays@2x.png" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/" (21735 22147 0 0) "README.md" "project/" "bootstrap" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/" (21735 12243 0 0) "Resources/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-android/Allryder/src/main/assets/" (21735 18117 0 0) "terms_deu.html" "terms.html" "rmv_frankfurt.png" "privacy_deu.html" "privacy.html" "pre-fts-b.blob" "legal-vrs.png" "legal-vrr.png" "legal-vbb.png" "legal-mvv.png" "legal-drive_now.png" "legal-db.png" "legal-car2go.png" "imprint_deu.html" "imprint.html" "import_hannover.py" "hvv.png" "hannover_android.csv" "final.csv" "details_zipcar.png" "details_wienerlinien.png" "details_vvs.png" "details_tfi.png" "details_ogl.png" "details_nb.png" "details_barclays_bike.png" "b.blob" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Details/" (21732 51210 0 0) "walk@3x.png" "walk@2x.png" "wait@3x.png" "wait@2x.png" "unlock@3x.png" "unlock@2x.png" "share_white@3x.png" "share_white@2x.png" "setup@3x.png" "setup@2x.png" "route_stop@3x.png" "route_stop@2x.png" "route_start@3x.png" "route_start@2x.png" "route_details_stop@3x.png" "route_details_stop@2x.png" "route_details_start@3x.png" "route_details_start@2x.png" "park@3x.png" "park@2x.png" "newsfeed@3x.png" "newsfeed@2x.png" "map@3x.png" "map@2x.png" "line_signpost@3x.png" "line_signpost@2x.png" "expand@3x.png" "expand@2x.png" "close_white@3x.png" "close_white@2x.png" "call@3x.png" "call@2x.png" "bounce_cta@3x.png" "bounce_cta@2x.png" "bounce2_cta@3x.png" "bounce2_cta@2x.png" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/" (21735 22141 0 0) "SSDataKit/" "SMMSDK/" "SDWebImage/" "SDReachability/" "SDCAutoLayout/" "SDCAlertView/" "ReactiveCocoa/" "RBBAnimation/" "NSManagedObjectContext+FetchAdditions/" "MTLAdditions/" "MBProgressHUD/" "Masonry/" "MarqueeLabel/" "Mantle/" "JBWhatsAppActivity/" "ISO8601DateFormatter/" "HockeySDK-iOS/" "helpshift-sdk-ios-v4.8.0/" "GroundControl/" "GoogleMaps.framework/" "GoogleAnalytics/" "fmdb/" "Flex/" "FacebookSDK/" "CCHMapClusterController/" "Appboy/" "AFNetworking/" "Adjust/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/" (21735 21911 0 0) "SDCAlertViewTests/" "SDCAlertView.xcworkspace/" "SDCAlertView.xcodeproj/" "SDCAlertView.podspec" "SDCAlertView/" "README.md" "Pods/" "Podfile.lock" "Podfile" "LICENSE" "CHANGELOG.md" ".gitignore" ".git" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Libraries/SDCAlertView/SDCAlertView/" (21735 21917 0 0) "Source/" "SDCAppDelegate.m" "SDCAppDelegate.h" "SDCAlertView-Prefix.pch" "SDCAlertView-Info.plist" "main.m" "Launch Screen.xib" "Images.xcassets/" "en.lproj/" "AlertDemo.storyboard" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/dots/" (21713 58668 0 0) "mpl.keylayout" "dot.zile" "dot.screenrc" "dot.Rprofile" "dot.gitconfig" "dot.emacs.d/" "dot.bashrc" "dot.bash_aliases" ".gitmodules" ".git/" "../" "./")
+
+ ("/Users/milan/Downloads/GoogleConversionTrackingSDK-iOS-3.2.0/DoubleClick/" (21720 38700 0 0) "DCTReporter.h" "../" "./")
+
+ ("/Users/milan/Downloads/GoogleConversionTrackingSDK-iOS-3.2.0/" (21735 2161 0 0) "README.txt" "libGoogleConversionTracking.a" "DoubleClick/" "Deprecated/" "ACTReporter.h" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/More/" (21732 51210 0 0) "terms@3x.png" "terms@2x.png" "tell_a_friend@3x.png" "tell_a_friend@2x.png" "source@3x.png" "source@2x.png" "set_work@3x.png" "set_work@2x.png" "set_home@3x.png" "set_home@2x.png" "rate_the_app@3x.png" "rate_the_app@2x.png" "privacy_policy@3x.png" "privacy_policy@2x.png" "newsfeed@3x.png" "newsfeed@2x.png" "love@3x.png" "love@2x.png" "legal@3x.png" "legal@2x.png" "imprint@3x.png" "imprint@2x.png" "Hotel_sidebar@3x.png" "Hotel_sidebar@2x.png" "help@3x.png" "help@2x.png" "follow_twitter@3x.png" "follow_twitter@2x.png" "feedback@3x.png" "feedback@2x.png" "facebook_like@3x.png" "facebook_like@2x.png" "clear_history@3x.png" "clear_history@2x.png" "about@3x.png" "about@2x.png" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/settings/Settings.bundle/" (21723 6866 0 0) "Root.plist" "en.lproj/" "de.lproj/" "Acknowledgments.plist" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/settings/" (21723 6866 0 0) "Settings.bundle/" "../" "./")
+
+ ("/Users/milan/dev/" (21731 22429 0 0) "server500.py" "quicar/" "LightTable/" "hmac_sign.pyc" "hmac_sign.py" "hmac_ruby.rb" "hannover.geojson" "errors.json" "dots/" "CeBIT-iOS/" "allryderSDK-iOS/" "allryder-ios/" "allryder-android/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/Downloads/osx-mitmproxy-0.11.3/" (21722 12308 0 0) "qc-get-list-response" "qc-get-list" "qc" "mitmproxy" "mitmdump" "doc/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/Resources/Locations/" (21722 13126 0 0) "zurich.gpx" "Westland Row in Dublin.gpx" "Victoria Station in London.gpx" "Taksim in Istanbul.gpx" "Steintorplatz 1 in Hamburg.gpx" "Quantiusstraße 18 in Bonn.gpx" "potsdam.gpx" "Mercatorstraße 16 in Druisburg.gpx" "Marienplatz in Munich.gpx" "Kriegsbergtraße in Sttutgart.gpx" "Kärnterstraße in Vienna.gpx" "Kaiserstr Frankfurt.gpx" "Immermannstraße in Dusseldorf.gpx" "Hbf in Nuremberg.gpx" "hamburg.gpx" "Grüne Straße 8 in Dortmund.gpx" "Frankfurt.gpx" "cologne.gpx" "Bielefeld.gpx" "berlin.gpx" "Berlin walk.gpx" "An der Reichsbank 1-2 in Essen.gpx" "alexanderplatz.gpx" "../" "./")
+
+ ("/Users/milan/dev/quicar/" (21724 49039 0 0) "rq.txt" "quicar-list-oneway.xml" "quicar-list-2015-02-10T15:14:39+01:00.xml" "quicar-list-2015-02-10T14:15:25+01:00.xml" "list_of_cars_example.txt" "get_list.py" "get_details.py" "details_of_cars_example.txt" "details-280,219" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/Locations/" (21725 53605 0 0) "zurich.gpx" "Westland Row in Dublin.gpx" "Victoria Station in London.gpx" "Taksim in Istanbul.gpx" "Steintorplatz 1 in Hamburg.gpx" "Quantiusstraße 18 in Bonn.gpx" "potsdam.gpx" "Mercatorstraße 16 in Druisburg.gpx" "Marienplatz in Munich.gpx" "Kriegsbergtraße in Sttutgart.gpx" "Kärnterstraße in Vienna.gpx" "Kaiserstr Frankfurt.gpx" "Immermannstraße in Dusseldorf.gpx" "Hbf in Nuremberg.gpx" "hannover.gpx" "hamburg.gpx" "Grüne Straße 8 in Dortmund.gpx" "Frankfurt.gpx" "cologne.gpx" "Bielefeld.gpx" "berlin.gpx" "Berlin walk.gpx" "An der Reichsbank 1-2 in Essen.gpx" "alexanderplatz.gpx" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/Sources/" (21731 1537 0 0) "WMLUserDataManager.m" "WMLUserDataManager.h" "WMLTimePickerView.m" "WMLTimePickerView.h" "WMLTimelineView.m" "WMLTimelineView.h" "WMLTheming.m" "WMLTheming.h" "WMLSuggestionController.m" "WMLSuggestionController.h" "WMLStationDetailTableViewController.m" "WMLStationDetailTableViewController.h" "WMLSecrets.h" "WMLPlacemark.m" "WMLPlacemark.h" "WMLPlace.m" "WMLPlace.h" "WMLNearMeViewController.m" "WMLNearMeViewController.h" "WMLNearMeTableViewErrorCell.m" "WMLNearMeTableViewErrorCell.h" "WMLNearMeTableViewContentCell.m" "WMLNearMeTableViewContentCell.h" "WMLNearMeStation.m" "WMLNearMeStation.h" "WMLMapViewController.m" "WMLMapViewController.h" "WMLLegalViewController.m" "WMLLegalViewController.h" "WMLLegalSectionViewController.m" "WMLLegalSectionViewController.h" "WMLLegalCell.m" "WMLLegalCell.h" "WMLImageHelper.m" "WMLImageHelper.h" "WMLGlobals.m" "WMLGlobals.h" "WMLEmptySearchHistoryCell.m" "WMLEmptySearchHistoryCell.h" "WMLConnection.m" "WMLConnection.h" "WMLConfig.m" "WMLConfig.h" "WMLCDRecentPlace.m" "WMLCDRecentPlace.h" "WMLCarStationDetailTableViewController.m" "WMLCarStationDetailTableViewController.h" "WMLBusinessArea.m" "WMLBusinessArea.h" "WMLBikeStationDetailTableViewController.m" "WMLBikeStationDetailTableViewController.h" "WMLBannerView.m" "WMLBannerView.h" "WMLAppDelegate.m" "WMLAppDelegate.h" "WMLAboutViewController.m" "WMLAboutViewController.h" "waymate.xcdatamodeld/" "UIView+AL.m" "UIView+AL.h" "UIImageToDataTransformer.m" "UIImageToDataTransformer.h" "UIFont+AL.m" "UIFont+AL.h" "UIColor+AL.m" "UIColor+AL.h" "SERClockView.m" "SERClockView.h" "NSString+WML.m" "NSString+WML.h" "NSString+HMAC.m" "NSString+HMAC.h" "NSDate+AL.m" "NSDate+AL.h" "GMSPolyline+WML.m" "GMSPolyline+WML.h" "GMSCameraPosition+AL.m" "GMSCameraPosition+AL.h" "CLLocation+AL.m" "CLLocation+AL.h" "ALUserDefaultKeys.h" "ALTravelModeLabelView.m" "ALTravelModeLabelView.h" "ALTrackingManager.m" "ALTrackingManager.h" "ALTrackingDebugViewController.m" "ALTrackingDebugViewController.h" "ALTour.m" "ALTour.h" "ALTapOriginAnimator.m" "ALTapOriginAnimator.h" "ALTableSectionView.m" "ALTableSectionView.h" "ALSwappingLineView.m" "ALSwappingLineView.h" "ALStopCell.m" "ALStopCell.h" "ALStop.m" "ALStop.h" "ALSegmentView.m" "ALSegmentView.h" "ALSegmentRowModel.m" "ALSegmentRowModel.h" "ALSegmentCell.m" "ALSegmentCell.h" "ALSegment.m" "ALSegment.h" "ALSearchManager.m" "ALSearchManager.h" "ALRouteView.m" "ALRouteView.h" "ALRoutePresentationModel.m" "ALRoutePresentationModel.h" "ALRouteInfoCell.m" "ALRouteInfoCell.h" "ALRouteActivityItem.m" "ALRouteActivityItem.h" "ALRoute.m" "ALRoute.h" "ALResultsViewController.m" "ALResultsViewController.h" "ALResultDetailViewController.m" "ALResultDetailViewController.h" "ALReactiveHTTPClient.m" "ALReactiveHTTPClient.h" "ALPushNotificationManager.m" "ALPushNotificationManager.h" "ALPropertyCell.m" "ALPropertyCell.h" "ALPrice.m" "ALPrice.h" "ALPlannerViewController.m" "ALPlannerViewController.h" "ALPlacePickerViewController.m" "ALPlacePickerViewController.h" "ALPhoneCell.m" "ALPhoneCell.h" "ALNotificationWidgetView.m" "ALNotificationWidgetView.h" "ALNearMeTableView.m" "ALNearMeTableView.h" "ALNearMeDetailViewController.m" "ALNearMeDetailViewController.h" "ALNearMeAutolayoutCell.m" "ALNearMeAutolayoutCell.h" "ALMoreTableViewController.m" "ALMoreTableViewController.h" "ALMapPin.m" "ALMapPin.h" "ALMadeWithLoveTableFooterView.m" "ALMadeWithLoveTableFooterView.h" "ALLocationManager.m" "ALLocationManager.h" "ALLoadingView.m" "ALLoadingView.h" "ALLaunchButton.m" "ALLaunchButton.h" "ALKeyboardBehaviour.m" "ALKeyboardBehaviour.h" "ALIntermediateStopCell.m" "ALIntermediateStopCell.h" "ALInputTableViewController.m" "ALInputTableViewController.h" "ALImageCell.m" "ALImageCell.h" "ALHTTPBuilder.m" "ALHTTPBuilder.h" "ALGridView.m" "ALGridView.h" "ALGoogleDisclaimerCell.m" "ALGoogleDisclaimerCell.h" "ALExtendedScrollView.m" "ALExtendedScrollView.h" "ALEstablishmentViewController.m" "ALEstablishmentViewController.h" "ALDisclaimerCell.m" "ALDisclaimerCell.h" "ALDepartureCell.m" "ALDepartureCell.h" "ALCurrentLocationCell.m" "ALCurrentLocationCell.h" "ALConnectionLineView.m" "ALConnectionLineView.h" "ALConnectionCircleView.m" "ALConnectionCircleView.h" "ALCommonCell.m" "ALCommonCell.h" "ALCitySelectorViewController.m" "ALCitySelectorViewController.h" "ALChangeDateButton.m" "ALChangeDateButton.h" "ALCarouselViewController.m" "ALCarouselViewController.h" "ALCarouselScrollView.m" "ALCarouselScrollView.h" "ALAPIMapper.m" "ALAPIMapper.h" "ALAPIConstants.h" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/" (21725 53452 0 0) "Videos/" "Sounds/" "Shared/" "settings/" "Results/" "Planner/" "Nearme/" "More/" "Map/" "Locations/" "Fonts/" "en.lproj/" "Details/" "de.lproj/" "data/" "Common/" "Animations/" "../" "./")
+
+ ("/Users/milan/dev/allryder-android/Allryder/src/" (21723 35244 0 0) "volkswagenDebug/" "volkswagen/" "main/" "androidTest/" "allryderDebug/" "../" "./")
+
+ ("/Users/milan/dev/allryder-android/Allryder/" (21723 35243 0 0) "src/" "lint.xml" "lib/" "build.gradle" ".gitignore" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/Resources/data/2014-01-allryder/" (21723 6856 0 0) "fill_fts.rb" "../" "./")
+
+ ("/Users/milan/dev/allryder-android/Allryder/src/main/" (21723 6746 0 0) "res/" "java/" "assets/" "AndroidManifest.xml" "../" "./")
+
+ ("/Users/milan/dev/allryder-android/" (21723 5604 0 0) "werker.yml" "third_party/" "settings.gradle" "README.md" "keystore/" "gradlew" "gradle.properties" "gradle/" "build.gradle" "Allryder/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/milan/dev/CeBIT-iOS/project/Allryder/" (21723 6866 0 0) "Sources/" "Resources/" "main.m" "en.lproj/" "de.lproj/" "Allryder-Prefix.pch" "../" "./")
+
+ ("/Users/milan/dev/allryder-ios/project/Waymate-local/Resources/" (21715 17160 0 0) "Shared/" "settings/" "Results/" "Planner/" "nearme/" "More/" "Map/" "Locations/" "en.lproj/" "Details/" "de.lproj/" "data/" "Common/" "Animations/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryderSDK-iOS/allryderSDKTests/" (21720 58850 0 0) "test-routes-request.json" "RoutingTests.m" "Info.plist" "AuthTests.m" "../" "./")
+
+ ("/Users/milan/Downloads/Sociomantic/" (21720 60696 0 0) "SociomanticTests/" "Sociomantic.xcodeproj/" "Sociomantic/" "build_framework.sh" "build/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryderSDK-iOS/Libraries/ILTesting/" (21720 58762 0 0) "README.mdown" "OCHamcrestMatchers/" "ILTestImage.m" "ILTestImage.h" "ILProfilerCompat.c" "ILCannedURLProtocolTests.m" "ILCannedURLProtocolTests.h" "ILCannedURLProtocol.m" "ILCannedURLProtocol.h" ".git" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryderSDK-iOS/" (21720 58800 0 0) "README.md" "Libraries/" "allryderSDKTests/" "allryderSDK.xcodeproj/" "allryderSDK/" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/milan/dev/allryderSDK-iOS/allryderSDK/" (21720 53577 0 0) "UIColor+AL.m" "UIColor+AL.h" "NSString+HMAC.m" "NSString+HMAC.h" "Info.plist" "ALTour.m" "ALTour.h" "ALStop.m" "ALStop.h" "ALSegment.m" "ALSegment.h" "ALSearchManager.m" "ALSearchManager.h" "ALRoute.m" "ALRoute.h" "ALPrice.m" "ALPrice.h" "allryderSDK.h" "Allryder.m" "Allryder.h" "ALLogger.m" "ALLogger.h" "ALHTTPInterface.m" "ALHTTPInterface.h" "ALHTTPAuthenticator.h" "ALHTTPAllryderAuthenticator.m" "ALHTTPAllryderAuthenticator.h" "ALAPIMethods.m" "ALAPIMethods.h" "ALAPIMapper.m" "ALAPIMapper.h" "ALAPIConstants.m" "ALAPIConstants.h" "../" "./")
+
+ ("/Users/milan/dev/allryderSDK-iOS/Libraries/" (21716 40147 0 0) "ILTesting/" ".DS_Store" "../" "./")
+
+ ("/Library/Keyboard Layouts/" (21704 63919 0 0) "mpl.keylayout" "../" "./")
+
+ ("/Library/" (21704 57524 0 0) "Widgets/" "WebServer/" "Video/" "User Pictures/" "Updates/" "SystemProfiler/" "SystemMigration/" "StartupItems/" "Spotlight/" "Spelling/" "Speech/" "Server/" "Security/" "Scripts/" "ScriptingAdditions/" "Screen Savers/" "Sandbox/" "Ruby/" "Receipts/" "QuickTime/" "QuickLook/" "Python/" "PrivilegedHelperTools/" "Printers/" "Preferences/" "PreferencePanes/" "Perl/" "PDF Services/" "OpenDirectory/" "Modem Scripts/" "Messages/" "Logs/" "LaunchDaemons/" "LaunchAgents/" "Keychains/" "Keyboard Layouts/" "Java/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "Image Capture/" "Graphics/" "Google/" "Frameworks/" "Fonts Disabled/" "Fonts/" "Filesystems/" "Extensions/" "DropboxHelperTools/" "Documentation/" "DirectoryServices/" "Dictionaries/" "Desktop Pictures/" "CoreMediaIO/" "Contextual Menu Items/" "Compositions/" "Components/" "ColorSync/" "ColorPickers/" "Caches/" "Automator/" "Audio/" "Application Support/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
