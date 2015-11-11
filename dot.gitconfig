@@ -1,7 +1,7 @@
 [alias]
 	co = checkout
 	ci = commit
-	lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(blue) %an%Creset' --abbrev-commit
+	lg = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(cyan) %an%Creset' --abbrev-commit
         record = add --patch
 	st = status
         graph = log --graph --date-order -C -M --pretty=format:'<%h> %ad [%an] %Cgreen%d%Creset %s' --all --date=short
