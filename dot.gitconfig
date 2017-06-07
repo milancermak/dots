@@ -36,3 +36,5 @@
 [user]
 	name = Milan Cermak
 	email = milan.cermak@gmail.com
+[pull]
+        rebase = true
